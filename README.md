@@ -1,8 +1,8 @@
-# University Course Enrollment Management System
+# Students Course Enrollment System
 
 ## Project Overview
 
-This project is a simple **University Course Enrollment Management System** developed for a Database Systems lab assignment. The system manages:
+This project is a simple **Student Course Enrollment System** developed for a Database Systems lab assignment. The system manages:
 
 * Student records
 * Course records
